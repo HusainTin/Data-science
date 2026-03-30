@@ -1,1 +1,3 @@
 ./venv
+# ignore datasets in data-augmentation
+*/datasets/
